@@ -1,0 +1,20 @@
+<com.android4.lenovo.lx3.view
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="黄色"
+        android:background="#ff0"/>
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="蓝色"
+        android:background="#00f"/>
+    <TextView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:text="黑色"
+        android:background="#000"/>
+</com.android4.lenovo.lx3.view>
